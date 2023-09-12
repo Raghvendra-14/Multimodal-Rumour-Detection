@@ -23,7 +23,3 @@ You can cite our work using the following BibTeX entry:
   isbn = {978-3-031-41682-8}
 }
 
-
-## Code
-
-Code to be released soon
